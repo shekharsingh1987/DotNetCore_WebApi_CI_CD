@@ -1,0 +1,17 @@
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.deps.json
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.runtimeconfig.json
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.runtimeconfig.dev.json
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.dll
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.pdb
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.dll
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\bin\Debug\netcoreapp2.1\RipKurrent.Web.API.pdb
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.csprojAssemblyReference.cache
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.csproj.CoreCompileInputs.cache
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.AssemblyInfoInputs.cache
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.AssemblyInfo.cs
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.csproj.CopyComplete
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.dll
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API.Test\obj\Debug\netcoreapp2.1\RipKurrent.Web.API.Test.pdb

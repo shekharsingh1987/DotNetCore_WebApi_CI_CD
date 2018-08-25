@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/.vs
+/WebPortal/.vs
+/TestApp/TestEAP/.vs
+/RestService/.vs
+/IdentityServer/.vs
+
+
+
+
+/RipKurrent.Web.API/bin/Debug/netcoreapp2.0
+/RipKurrent.Web.API/bin/Release/netcoreapp2.0

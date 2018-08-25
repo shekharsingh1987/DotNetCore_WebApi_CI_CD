@@ -1,0 +1,5 @@
+D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=RipKurrent.Web.API
+--content-root=D:\Projects-Client\RipKurrent\Project\ripkurrent.eap\RipKurrent.Web.API
+--file=

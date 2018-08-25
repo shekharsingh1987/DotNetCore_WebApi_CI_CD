@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RipKurrent.Web.API", "RipKurrent.Web.API\RipKurrent.Web.API.csproj", "{3C23DCAC-E0DA-4957-A227-40761EFEB0C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RipKurrent.Web.API.Test", "RipKurrent.Web.API.Test\RipKurrent.Web.API.Test.csproj", "{FCB6B96A-10D3-44FD-9387-A99794B2ABA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C23DCAC-E0DA-4957-A227-40761EFEB0C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C23DCAC-E0DA-4957-A227-40761EFEB0C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C23DCAC-E0DA-4957-A227-40761EFEB0C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C23DCAC-E0DA-4957-A227-40761EFEB0C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB6B96A-10D3-44FD-9387-A99794B2ABA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB6B96A-10D3-44FD-9387-A99794B2ABA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB6B96A-10D3-44FD-9387-A99794B2ABA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB6B96A-10D3-44FD-9387-A99794B2ABA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {169A31D7-47ED-4355-85B6-DD788229D49E}
+	EndGlobalSection
+EndGlobal

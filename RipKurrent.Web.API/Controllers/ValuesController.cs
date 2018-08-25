@@ -13,7 +13,7 @@ namespace RipKurrent.Web.API.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "shekhar", "kumar" };
+            return new string[] { "shekhar", "kumar","Singh" };
         }
 
         // GET api/values/5

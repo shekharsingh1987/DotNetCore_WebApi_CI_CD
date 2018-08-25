@@ -12541,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects-Client\\RipKurrent\\Project\\ripkurrent.eap\\RipKurrent.Web.API\\RipKurrent.Web.API.csproj",
+      "projectUniqueName": "D:\\POCs\\DotNetCore_WebApi_CI_CD\\RipKurrent.Web.API\\RipKurrent.Web.API.csproj",
       "projectName": "RipKurrent.Web.API",
-      "projectPath": "D:\\Projects-Client\\RipKurrent\\Project\\ripkurrent.eap\\RipKurrent.Web.API\\RipKurrent.Web.API.csproj",
+      "projectPath": "D:\\POCs\\DotNetCore_WebApi_CI_CD\\RipKurrent.Web.API\\RipKurrent.Web.API.csproj",
       "packagesPath": "C:\\Users\\Shekhar Kumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects-Client\\RipKurrent\\Project\\ripkurrent.eap\\RipKurrent.Web.API\\obj\\",
+      "outputPath": "D:\\POCs\\DotNetCore_WebApi_CI_CD\\RipKurrent.Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
